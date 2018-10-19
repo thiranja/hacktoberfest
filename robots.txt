@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /danger.html
+//add my changes :D
